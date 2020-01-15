@@ -36,3 +36,8 @@ html {
     border: 1px solid;
     border-color: transparent #efe4e4;
   }
+
+  .intro {
+    display: flex;
+    justify-content: center;
+  }
